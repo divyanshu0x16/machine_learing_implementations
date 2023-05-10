@@ -39,7 +39,7 @@ Contains the implementations of following algorithms from scratch:-
 In this assignment, we had to create an interactive wizard for Taylor Series Approximation. Link to the final implementations are as follows:-
 
 - [Stream Lit Deployment](https://divyanshu0x16-taylor-series-approximations-app-1fao0k.streamlit.app/)
-- [GitHub Report](https://github.com/divyanshu0x16/taylor_series_approximations)
+- [GitHub Repository](https://github.com/divyanshu0x16/taylor_series_approximations)
 
 ### Assignment-4
 
