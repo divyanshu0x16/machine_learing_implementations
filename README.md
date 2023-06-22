@@ -19,7 +19,7 @@ Our goal was to implement Decision Tree implementation from scratch without the 
 
 Use cross-validation techniques and compare the efficiency of our implementation with SKLearn's implementation. 
 
-[Fianl Readme for Assignment 1](https://github.com/divyanshu0x16/machine_learing_implementations/blob/master/assignment1/assignment_q4_subjective_answers.md)
+[Final Readme for Assignment 1](https://github.com/divyanshu0x16/machine_learing_implementations/blob/master/assignment1/assignment_q4_subjective_answers.md)
 
 ### Assignment-2
 
